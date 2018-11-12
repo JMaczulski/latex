@@ -1,0 +1,48 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{polski, amssymb, amsmath}
+\usepackage{lipsum}
+\usepackage{algpseudocode}
+\usepackage{csquotes}
+
+\title{My First Homework}
+\author{Yan Machulski}
+\date{November 2018}
+
+\begin{document}
+
+
+
+
+
+
+\maketitle {Twierdzenie Kroneckera-Capellego[1] – twierdzenie algebry liniowej dające kryterium istnienia rozwiązań układu równań liniowych i umożliwiające ich klasyfikację (która, opisana w niniejszym artykule jako „wniosek”, jest często przytaczana w samym twierdzeniu); stanowi ono uogólnienie opisu rozwiązań układu równań liniowych jednorodnych zawartego w twierdzeniu o rzędzie na przypadek niejednorodny.}
+\vspace{2cm}
+
+\section{Eśli macierz główna układu jest kwadratowa (układ jest kwadratowy), to oznaczoność układu jest równoważna odwracalności jego macierzy głównej. Macierz jest odwracalna wtedy i tylko wtedy, gdy jest nieosobliwa, tzn. ma niezerowy wyznacznik. Wówczas, mnożąc z lewej strony (w ogólności mnożenie macierzy nie jest przemienne) równanie.}
+\vspace{0.5cm}
+\subsection{Hello.}
+\vspace{0.5cm}
+\subsection{Obliczyć wyznaczniki podanych macierzy, gdzie a, b, c, d, e są liczbami rzeczywistymi.}
+\vspace{0.5cm}
+\subsubsection{EARTH.}
+
+
+\newpage
+
+\newsection{$\triangle = b^2 - 4 * a * c$}
+
+\newsubsection{$\sqrt{16} = 2^2 = 4$}
+
+
+
+
+\begin{figure}[h]
+\centering
+\includegraphics []{moon.jpg}
+\caption{It's MOON emoji}
+\label{figure:obrazek}
+\end{figure}
+ 
+
+\end{document}
